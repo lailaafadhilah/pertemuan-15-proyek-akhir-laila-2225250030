@@ -1,0 +1,19 @@
+LAPORAN REKAP DAN ANALISIS NILAI MATEMATIKA
+==================================================
+
+Daftar Nilai Siswa:
+--------------------------------------------------
+A001 | Ayu | 85.00 | Lulus
+A002 | Budi | 70.00 | Lulus
+A003 | Citra | 90.00 | Lulus
+A004 | Deni | 60.00 | Lulus
+A005 | Eka | 55.00 | Tidak Lulus
+
+Ringkasan Nilai:
+--------------------------------------------------
+Jumlah siswa       : 5
+Rata-rata nilai    : 72.00
+Nilai tertinggi    : 90.00
+Nilai terendah     : 55.00
+Jumlah siswa lulus : 4
+Jumlah tidak lulus : 1
